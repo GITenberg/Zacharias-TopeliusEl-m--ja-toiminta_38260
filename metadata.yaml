@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39353'
     url: http://www.gutenberg.org/2009/agents/39353
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38260#Zacharias-TopeliusEl-m--ja-toiminta
 gutenberg_issued: '2011-12-10'
 gutenberg_type: Text
 identifiers:
