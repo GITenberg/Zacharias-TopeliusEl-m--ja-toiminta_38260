@@ -1,0 +1,24 @@
+_repo: Zacharias-TopeliusEl-m--ja-toiminta_38260
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sarlin, A. J.
+    gutenberg_agent_id: '39353'
+    url: http://www.gutenberg.org/2009/agents/39353
+description: ''
+gutenberg_issued: '2011-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38260'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Topelius, Zacharias, 1818-1898'
+- !lcc 'PT'
+title: 'Zacharias Topelius: Elämä ja toiminta'
+url: http://www.gutenberg.org/ebooks/38260
